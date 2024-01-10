@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/9b86a418099af8ac52b70230f8731261/4106b2fd46bb7152-50/s1280x1920/cb02ba5b3e3ef9935a1a500ac20663e1b1846640.gif"  />
+  <img height="350" src="https://64.media.tumblr.com/9b86a418099af8ac52b70230f8731261/4106b2fd46bb7152-50/s1280x1920/cb02ba5b3e3ef9935a1a500ac20663e1b1846640.gif"  />
 </div>
 
 ###
