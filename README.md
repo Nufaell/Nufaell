@@ -1,4 +1,3 @@
-<img align="left" height="200" src="https://www.nufael.com/wp-content/uploads/2024/05/Nufael-logo.jpeg"  />
 
 ###
 
