@@ -1,8 +1,8 @@
-<img align="left" height="200" src="https://nufael.com/gallery_gen/8b4a74ff0b6c3fa3da2d52da66fd764e_388x388_fit.jpeg?ts=1704742021"  />
+<img align="left" height="200" src="https://www.nufael.com/wp-content/uploads/2024/05/Nufael-logo.jpeg"  />
 
 ###
 
-<h1 align="center">Hoş Geldin 👋, Ben Göktuğ</h1>
+<h1 align="center">Hi 👋, I'm Göktuğ</h1>
 
 ###
 
